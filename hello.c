@@ -1,5 +1,5 @@
-#include<stdio.h>
-void main()
+#include<stdio.h> /*importing standard input output preproccessor directive*/
+void main()/* main function*/
 {
-  printf("hello world");
+  printf("hello world");/* printing hello world */
 }
